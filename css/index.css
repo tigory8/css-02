@@ -1,0 +1,30 @@
+:root {
+    font-size: 18px;
+}
+
+h1 {
+    color: red;
+ }
+/* {
+     text-decoration: underline;
+     border: 1px solid black
+ }*/
+ #chosen {
+     background-color: #ba3034;
+ }
+ .uppercase {
+     text-transform: uppercase;
+ }
+ .rotate {
+     transform: rotate(180deg);
+ }
+ 
+ div p {
+     color: cyan;
+ }
+ p:hover {
+     text-decoration: underline;
+ }
+ P::first-letter {
+     font-size: 2rem;
+ }
