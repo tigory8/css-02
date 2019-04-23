@@ -1,1 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
 
+h1, h2, h3, main, div, section, p {
+    margin: 0;
+    padding: 0;
+}
+
+header .logo {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size:  3 rem;
+}
